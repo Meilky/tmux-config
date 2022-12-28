@@ -5,4 +5,4 @@ Please install tmux plugin manager:
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 
-Then `<CTRL-b>i` to install all packages 
+Then `<CTRL-b>I` to install all packages 
